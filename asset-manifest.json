@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/POST-API-Firebase/static/css/main.5e0e4ed4.css",
+    "main.js": "/POST-API-Firebase/static/js/main.69fb746e.js",
+    "index.html": "/POST-API-Firebase/index.html",
+    "main.5e0e4ed4.css.map": "/POST-API-Firebase/static/css/main.5e0e4ed4.css.map",
+    "main.69fb746e.js.map": "/POST-API-Firebase/static/js/main.69fb746e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e0e4ed4.css",
+    "static/js/main.69fb746e.js"
+  ]
+}
